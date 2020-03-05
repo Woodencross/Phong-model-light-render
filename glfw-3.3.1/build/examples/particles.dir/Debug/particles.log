@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Files/大三/计算机图形学/大作业/glfw-3.3.1/examples/CMakeLists.txt
+  particles.c
+  tinycthread.c
+  getopt.c
+  glad_gl.c
+  正在生成代码...
+  particles.vcxproj -> D:\Files\大三\计算机图形学\大作业\glfw-3.3.1\build\examples\Debug\particles.exe
+  particles.vcxproj -> D:/Files/大三/计算机图形学/大作业/glfw-3.3.1/build/examples/Debug/particles.pdb (Full PDB)

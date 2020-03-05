@@ -1,0 +1,11 @@
+﻿  源.cpp
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(148): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(240): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(241): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(243): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(244): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\qichong49\documents\visual studio 2015\projects\opengl_01\opengl_01\源.cpp(251): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGL_01.vcxproj -> c:\users\qichong49\documents\visual studio 2015\Projects\OpenGL_01\Debug\OpenGL_01.exe
+  OpenGL_01.vcxproj -> c:\users\qichong49\documents\visual studio 2015\Projects\OpenGL_01\Debug\OpenGL_01.pdb (Partial PDB)
